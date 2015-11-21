@@ -9,8 +9,7 @@ var Cat = mongoose.model('Cat', {name:String});
 
 Router.get('/', function(req, res, next){
     console.log("here is a console.log ");
-    var file = req.params[0] || 'views/index.html';
-    res.sendFile(path.join(__dirname, '../public', file));
+    res.sendFile(path.join(__dirname, './public/views/index.html', file));
 });
 
 module.exports = Router;

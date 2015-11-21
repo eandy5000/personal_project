@@ -13,4 +13,7 @@ The website will provide a fun and interactive web application that
 allows players to enjoy the classic game of tic-tac-toe while while
 chatting.
 
-My full scope of work is [here] (https://docs.google.com/document/d/1Vrap20iEvph0VQb09wn_f-MOSeL7l6E0rROBNwqEcEM/edit?usp=sharing)
+My full scope of work is [here]
+(https://docs.google.com/document/d/1Vrap20iEvph0VQb09wn_f-MOSeL7l6E0rROBNwqEcEM/edit?usp=sharing)
+
+note: master branch stuck on step "include angular" pg 11 of MEAN Walkthrough
