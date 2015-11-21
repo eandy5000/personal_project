@@ -1,0 +1,23 @@
+{
+  "name": "personal_project",
+  "version": "1.0.0",
+  "description": "Tic-tac-toe website with chat",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eandy5000/personal_project.git"
+  },
+  "author": "Andy Eccleston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eandy5000/personal_project/issues"
+  },
+  "homepage": "https://github.com/eandy5000/personal_project#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
