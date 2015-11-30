@@ -17,3 +17,6 @@ My full scope of work is [here]
 (https://docs.google.com/document/d/1Vrap20iEvph0VQb09wn_f-MOSeL7l6E0rROBNwqEcEM/edit?usp=sharing)
 
 note: walking skeleton portion working
+
+# Git Repositories I am using for this project
+*[personal_project_views](https://github.com/eandy5000/personal_project_views)
