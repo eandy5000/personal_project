@@ -18,5 +18,7 @@ My full scope of work is [here]
 
 note: walking skeleton portion working
 
-# Git Repositories I am using for this project
-*[personal_project_views](https://github.com/eandy5000/personal_project_views)
+Git Repositories I am using for this project
+* [personal_project_views](https://github.com/eandy5000/personal_project_views)
+* [tic_game_board](https://github.com/eandy5000/tic_game_board)
+
